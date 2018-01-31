@@ -1,0 +1,22 @@
+[
+  {
+    "menuID": "211",
+    "menuName": "采购订单",
+    "sysNo": 211
+  },
+  {
+    "menuID": "212",
+    "menuName": "收货更正",
+    "sysNo": 212
+  },
+  {
+    "menuID": "213",
+    "menuName": "直送退货管理",
+    "sysNo": 213
+  },
+  {
+    "menuID": "214",
+    "menuName": "直送收货管理",
+    "sysNo": 214
+  }
+]

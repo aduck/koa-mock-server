@@ -1,0 +1,22 @@
+[
+  {
+    "menuID": "1",
+    "menuName": "招商管理",
+    "sysNo": 1
+  },
+  {
+    "menuID": "2",
+    "menuName": "订进退管理",
+    "sysNo": 2
+  },
+  {
+    "menuID": "3",
+    "menuName": "配送中心",
+    "sysNo": 3
+  },
+  {
+    "menuID": "4",
+    "menuName": "促销管理",
+    "sysNo": 4
+  }
+]
